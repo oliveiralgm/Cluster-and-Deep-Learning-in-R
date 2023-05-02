@@ -24,7 +24,7 @@ I worked for a major container shipping company's Miami office and was requested
   
   ## Silhouette and Cluster Graphs
   
-  ![Alt text](https://github.com/oliveiralgm/Cluster-and-Deep-Learning-in-R/blob/main/clustering/Clustering%20Results%20Graphs%20Tier%201.pngg)
+ ![Alt text](https://github.com/oliveiralgm/Cluster-and-Deep-Learning-in-R/blob/main/clustering/Clustering%20Results%20Graphs%20Tier%201.png)
  ![Alt text](https://github.com/oliveiralgm/Cluster-and-Deep-Learning-in-R/blob/main/clustering/Clustering%20Results%20Graphs%20Tier%202.png)
 
 
@@ -49,18 +49,17 @@ I worked for a major container shipping company's Miami office and was requested
   - Distribution of volume forecast for three weeks ahead for every voyage.
   - Compare forecast with total volume of vessel and optimize load.
   
-  ## Training fitting graph for the model.
+  ## Schematics of Model.
   
- ![Alt text](https://github.com/oliveiralgm/Cluster-and-Deep-Learning-in-R/blob/main/deep_learning/Prediction%20Dist.png)
- ![Alt text](https://github.com/oliveiralgm/Cluster-and-Deep-Learning-in-R/blob/main/deep_learning/Prediction%20Dist.png)
- ![Alt text](https://github.com/oliveiralgm/Cluster-and-Deep-Learning-in-R/blob/main/deep_learning/Prediction%20Dist.png)
+ ![Alt text](https://github.com/oliveiralgm/Cluster-and-Deep-Learning-in-R/blob/main/deep_learning/Model.png)
+ 
+ ## Training results.
 
+ ![Alt text](https://github.com/oliveiralgm/Cluster-and-Deep-Learning-in-R/blob/main/deep_learning/Train%20results%20graph.png)
+ 
+ ## Prediction distribution results.
 
-   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/oliveiralgm/Cluster-and-Deep-Learning-in-R/blob/main/deep_learning/Prediction%20Dist.png"
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/oliveiralgm/Cluster-and-Deep-Learning-in-R/blob/main/clustering/Clustering%20Results%20Graphs%20Tier%202.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+ ![Alt text](https://github.com/oliveiralgm/Cluster-and-Deep-Learning-in-R/blob/main/deep_learning/Prediction%20Dist.png)
   
   
   
