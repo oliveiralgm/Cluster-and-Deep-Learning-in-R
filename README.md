@@ -36,14 +36,28 @@ I worked for a major container shipping company's Miami office and was requested
   Client wanted to be able to predict load per shipping voyage to optimize allocation of cargo for maximum revenue.
 
 2- Task: 
-  Develop a forecasting model using historical timeseries data. After testing multiple models, including ARIMA, .
+  Develop a forecasting model using historical timeseries data.
 
 3- Actions:
- - 
+  - Clean and prepare data for models - done in excel and VBA. 
+  - Test multiple models, including ARIMA, SARIMA and Deep Learning.
+  - Best model was CNN LSTM.
+  - Create time series sliding windo data.
+  - Create, train, test and cross validate model to determine the best hyper-parameters for the model.
+  - Run model multiple times (20-100) to get a range and distribution of possible predictions.
+  - Print results and make presentation.
 
 4- Results:
-  - Reduced quoting time in around 75% - from an average of 4 days to 1 day.
-  - Was later implemented in all offices around the world.
+  - Distribution of volume forecast for three weeks ahead for every voyage.
+  - Compare forecast with total volume of vessel and optimize load.
+  
+  ## Training fitting graph for the model.
+  
+   <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/oliveiralgm/Cluster-and-Deep-Learning-in-R/blob/main/clustering/Clustering%20Results%20Graphs%20Tier%201.png"
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/oliveiralgm/Cluster-and-Deep-Learning-in-R/blob/main/clustering/Clustering%20Results%20Graphs%20Tier%202.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
   
   
   
