@@ -16,7 +16,7 @@ library(gtools)
 library(rnn)
 library(xlsx)
 
-#Uploading the data - Each line can be changed to bring one set of data
+#Uploading the data - Each line can be changed to bring one set of data - this can be automated
 
 #ForecastData <- data.frame(read.xls("/Users/Oliveiralgm/Downloads/PACIFIC VOLUME FORECAST DATA.xlsx", sheet = "PACIFIC MGE CLSAI REEFER1"))#, row.names=NULL, stringsAsFactors= FALSE))
 #ForecastData <- data.frame(read.xls("/Users/Oliveiralgm/Downloads/PACIFIC VOLUME FORECAST DATA.xlsx", sheet = "PACIFIC MGE ECGYE DRY1"))#, row.names=NULL, stringsAsFactors= FALSE))
