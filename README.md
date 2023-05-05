@@ -1,4 +1,15 @@
-``` Used K-means clustering to reduce customer quoting time in 40% & CNN-LSTM to optimize vessel load capacity. ```
+``` 
+  Used K-means clustering to reduce customer quoting time in 40% & CNN-LSTM to optimize vessel load capacity. 
+  
+    > libraries used:
+      - dplyr
+      - cluster
+      - Rtsne
+      - ggplot2
+      - gdata
+      - xlsx
+    
+ ```
 
 ## More Details
 
