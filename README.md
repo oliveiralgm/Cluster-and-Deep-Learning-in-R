@@ -1,4 +1,6 @@
-# Clustering and Deep Learning in R -2018
+``` Used K-means clustering to reduce customer quoting time in 40% & CNN-LSTM to optimize vessel load capacity. ```
+
+## More Details
 
 I worked for a major container shipping company's Miami office and was requested to optimize their quoting system.
 
